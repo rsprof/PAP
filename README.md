@@ -9,7 +9,7 @@ The idea is to explore essential concepts in the development of interactive game
 
 ### Important Dates
 
-* Game release - 10/01/2025
+* Game release - 10/02/2025
 
 ### Commits
 
